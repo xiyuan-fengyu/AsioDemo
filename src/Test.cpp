@@ -4,10 +4,10 @@
 
 #include <iostream>
 #include <functional>
+#include <vector>
 
 using namespace std;
 using namespace std::placeholders;
-
 
 int main() {
 
